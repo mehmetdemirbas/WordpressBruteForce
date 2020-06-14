@@ -1,7 +1,10 @@
-.:: Slayeri4 ::.
+.::  Wordpress Brute Forcer  ::.
 
-pip install selenium & pip3 install selenium
+pip install selenium 
+
+pip3 install selenium
+
 python brute-force.py site.txt user.txt password.txt
 
 
-.:: Slayeri4 ::.
+.:: Mehmet Demirbaş ::.
